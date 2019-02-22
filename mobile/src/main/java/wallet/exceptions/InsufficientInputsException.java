@@ -1,6 +1,6 @@
 package wallet.exceptions;
 
-import org.cryptodezirecashj.core.Coin;
+import org.airwirej.core.Coin;
 
 /**
  * Created by akshaynexus on 8/9/17.

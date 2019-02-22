@@ -1,6 +1,6 @@
 package chain;
 
-import org.cryptodezirecashj.core.PeerGroup;
+import org.airwirej.core.PeerGroup;
 
 import java.util.Set;
 

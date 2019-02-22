@@ -2,30 +2,30 @@ package wallet;
 
 import com.google.common.base.Charsets;
 
-import org.cryptodezirecashj.core.Address;
-import org.cryptodezirecashj.core.BlockChain;
-import org.cryptodezirecashj.core.Coin;
-import org.cryptodezirecashj.core.InsufficientMoneyException;
-import org.cryptodezirecashj.core.PeerGroup;
-import org.cryptodezirecashj.core.Sha256Hash;
-import org.cryptodezirecashj.core.Transaction;
-import org.cryptodezirecashj.core.TransactionInput;
-import org.cryptodezirecashj.core.TransactionOutput;
-import org.cryptodezirecashj.core.Utils;
-import org.cryptodezirecashj.core.listeners.TransactionConfidenceEventListener;
-import org.cryptodezirecashj.crypto.DeterministicKey;
-import org.cryptodezirecashj.crypto.LinuxSecureRandom;
-import org.cryptodezirecashj.crypto.MnemonicCode;
-import org.cryptodezirecashj.crypto.MnemonicException;
-import org.cryptodezirecashj.wallet.DeterministicKeyChain;
-import org.cryptodezirecashj.wallet.DeterministicSeed;
-import org.cryptodezirecashj.wallet.Protos;
-import org.cryptodezirecashj.wallet.SendRequest;
-import org.cryptodezirecashj.wallet.UnreadableWalletException;
-import org.cryptodezirecashj.wallet.Wallet;
-import org.cryptodezirecashj.wallet.WalletFiles;
-import org.cryptodezirecashj.wallet.WalletProtobufSerializer;
-import org.cryptodezirecashj.wallet.listeners.WalletCoinsReceivedEventListener;
+import org.airwirej.core.Address;
+import org.airwirej.core.BlockChain;
+import org.airwirej.core.Coin;
+import org.airwirej.core.InsufficientMoneyException;
+import org.airwirej.core.PeerGroup;
+import org.airwirej.core.Sha256Hash;
+import org.airwirej.core.Transaction;
+import org.airwirej.core.TransactionInput;
+import org.airwirej.core.TransactionOutput;
+import org.airwirej.core.Utils;
+import org.airwirej.core.listeners.TransactionConfidenceEventListener;
+import org.airwirej.crypto.DeterministicKey;
+import org.airwirej.crypto.LinuxSecureRandom;
+import org.airwirej.crypto.MnemonicCode;
+import org.airwirej.crypto.MnemonicException;
+import org.airwirej.wallet.DeterministicKeyChain;
+import org.airwirej.wallet.DeterministicSeed;
+import org.airwirej.wallet.Protos;
+import org.airwirej.wallet.SendRequest;
+import org.airwirej.wallet.UnreadableWalletException;
+import org.airwirej.wallet.Wallet;
+import org.airwirej.wallet.WalletFiles;
+import org.airwirej.wallet.WalletProtobufSerializer;
+import org.airwirej.wallet.listeners.WalletCoinsReceivedEventListener;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -189,7 +189,7 @@ public class WalletManager {
         wallet.addCoinsReceivedEventListener(new WalletCoinsReceivedEventListener() {
             @Override
             public void onCoinsReceived(Wallet wallet, Transaction transaction, Coin coin, Coin coin1) {
-                org.cryptodezirecashj.core.Context.propagate(conf.getWalletContext());
+                org.airwirej.core.Context.propagate(conf.getWalletContext());
                 saveWallet();
             }
         });

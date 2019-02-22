@@ -1,7 +1,7 @@
 package global;
 
-import org.cryptodezirecashj.core.Context;
-import org.cryptodezirecashj.core.NetworkParameters;
+import org.airwirej.core.Context;
+import org.airwirej.core.NetworkParameters;
 
 /**
  * Created by akshaynexus on 6/4/17.

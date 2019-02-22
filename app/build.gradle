@@ -5,7 +5,7 @@ android {
     buildToolsVersion '28.0.0'
     useLibrary 'org.apache.http.legacy'
     defaultConfig {
-        applicationId "cryptodezirecash.tech.akshaynexus"
+        applicationId "airwire.tech.akshaynexus"
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 25

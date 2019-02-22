@@ -105,6 +105,7 @@
     <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: com.madgag.spongycastle:core:1.54.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/akshaycm/Documents/Mobile Wallets/AirWire-Android/mobile/lib/furszy-non-blocking-client-0.0.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:25.3.1@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support.test.espresso:espresso-idling-resource-2.2.2" level="project" />
     <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.10@jar" level="project" />
@@ -138,7 +139,6 @@
     <orderEntry type="library" name="Gradle: com.android.support:support-core-utils-25.3.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.anrwatchdog:anrwatchdog:1.3.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.clans:fab-1.6.4" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/Users/akshaycm/Documents/Mobile Wallets/CryptoDezireCash-Android/mobile/lib/furszy-non-blocking-client-0.0.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7-25.3.1" level="project" />
     <orderEntry type="library" name="Gradle: com.github.tony19:logback-android-classic:1.1.1-5@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment-25.3.1" level="project" />
@@ -170,13 +170,13 @@
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base-license-11.6.2" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android:flexbox-0.3.0" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:/Users/akshaycm/Documents/Mobile Wallets/CryptoDezireCash-Android/mobile/lib/cryptodezirecashj-core-0.14.3-12.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: commons-beanutils:commons-beanutils:1.9.2@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks-11.6.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-integration:1.3@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.0.1@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy:1.6.14@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:/Users/akshaycm/Documents/Mobile Wallets/AirWire-Android/mobile/lib/airwirej-core-0.14.3-12.1.jar:unspecified@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: net.bytebuddy:byte-buddy-agent:1.6.14@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.mockito:mockito-core:2.8.9@jar" level="project" />
     <orderEntry type="module" module-name="mobile" />

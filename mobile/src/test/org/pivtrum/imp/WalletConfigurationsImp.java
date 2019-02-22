@@ -1,8 +1,8 @@
 package org.pivtrum.imp;
 
-import org.cryptodezirecashj.core.Context;
-import org.cryptodezirecashj.core.NetworkParameters;
-import org.cryptodezirecashj.params.TestNet3Params;
+import org.airwirej.core.Context;
+import org.airwirej.core.NetworkParameters;
+import org.airwirej.params.TestNet3Params;
 
 import global.WalletConfiguration;
 

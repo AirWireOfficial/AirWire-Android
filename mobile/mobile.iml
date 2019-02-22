@@ -27,56 +27,56 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_slf4j_slf4j_api_1_7_20_867d63093eff0a0cb527bf13d397d850af3dcae3_slf4j_api_1_7_20_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_google_protobuf_protobuf_java_2_6_1_d9521f2aecb909835746b7a5facf612af5e890e8_protobuf_java_2_6_1_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_google_guava_guava_20_0_89507701249388e1ed5ddcf8c41f4ce1be7831ef_guava_20_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_squareup_okhttp_okhttp_2_7_5_7a15a7db50f86c4b64aa3367424a60e3a325b8f1_okhttp_2_7_5_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_codec_commons_codec_1_10_4b95f4897fa13f2cd904aee711aeafc0c5295cd8_commons_codec_1_10_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_madgag_spongycastle_core_1_54_0_0_de79c5f8c67234f0d0073e00ed1f3bab0e5d1e67_core_1_54_0_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_validator_commons_validator_1_6_e989d1e87cdd60575df0765ed5bac65c905d7908_commons_validator_1_6_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_json_json_20170516_949abe1460757b8dc9902c562f83e49675444572_json_20170516_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_lambdaworks_scrypt_1_4_0_906506b74f30c8c20bccd9ed4a11112d8941fe87_scrypt_1_4_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_squareup_okio_okio_1_6_0_98476622f10715998eacf9240d6b479f12c66143_okio_1_6_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_beanutils_commons_beanutils_1_9_2_7a87d845ad3a155297e8f67d9008f4c1e5656b71_commons_beanutils_1_9_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_digester_commons_digester_1_8_1_3dec9b9c7ea9342d4dbe8c38560080d85b44a015_commons_digester_1_8_1_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_logging_commons_logging_1_2_4bfc12adfe4842bf07b657f0369c4cb522955686_commons_logging_1_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_collections_commons_collections_3_2_2_8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5_commons_collections_3_2_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="cryptodezirecashj-core-0.14.3-12.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="slf4j-api-1.7.20" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="protobuf-java-2.6.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="guava-20.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="okhttp-2.7.5" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-codec-1.10" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="core-1.54.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-validator-1.6" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="json-20170516" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="scrypt-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="okio-1.6.0" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-beanutils-1.9.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-digester-1.8.1" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="commons-collections-3.2.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="airwirej-core-0.14.3-12.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="furszy-non-blocking-client-0.0.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_slf4j_slf4j_api_1_7_20_867d63093eff0a0cb527bf13d397d850af3dcae3_slf4j_api_1_7_20_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_google_protobuf_protobuf_java_2_6_1_d9521f2aecb909835746b7a5facf612af5e890e8_protobuf_java_2_6_1_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_google_guava_guava_20_0_89507701249388e1ed5ddcf8c41f4ce1be7831ef_guava_20_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_squareup_okhttp_okhttp_2_7_5_7a15a7db50f86c4b64aa3367424a60e3a325b8f1_okhttp_2_7_5_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_codec_commons_codec_1_10_4b95f4897fa13f2cd904aee711aeafc0c5295cd8_commons_codec_1_10_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_madgag_spongycastle_core_1_54_0_0_de79c5f8c67234f0d0073e00ed1f3bab0e5d1e67_core_1_54_0_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_validator_commons_validator_1_6_e989d1e87cdd60575df0765ed5bac65c905d7908_commons_validator_1_6_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_json_json_20170516_949abe1460757b8dc9902c562f83e49675444572_json_20170516_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_lambdaworks_scrypt_1_4_0_906506b74f30c8c20bccd9ed4a11112d8941fe87_scrypt_1_4_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_squareup_okio_okio_1_6_0_98476622f10715998eacf9240d6b479f12c66143_okio_1_6_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_beanutils_commons_beanutils_1_9_2_7a87d845ad3a155297e8f67d9008f4c1e5656b71_commons_beanutils_1_9_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_digester_commons_digester_1_8_1_3dec9b9c7ea9342d4dbe8c38560080d85b44a015_commons_digester_1_8_1_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_logging_commons_logging_1_2_4bfc12adfe4842bf07b657f0369c4cb522955686_commons_logging_1_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_collections_commons_collections_3_2_2_8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5_commons_collections_3_2_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="cryptodezirecashj-core-0.14.3-12.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="slf4j-api-1.7.20" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="protobuf-java-2.6.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="guava-20.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="okhttp-2.7.5" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-codec-1.10" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="core-1.54.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-validator-1.6" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="json-20170516" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="scrypt-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="okio-1.6.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-beanutils-1.9.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-digester-1.8.1" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="commons-collections-3.2.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="airwirej-core-0.14.3-12.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="furszy-non-blocking-client-0.0.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_slf4j_slf4j_simple_1_7_5_4a950c50bbc67fdbc908190dc8e25d7a0251f74a_slf4j_simple_1_7_5_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_slf4j_slf4j_api_1_7_20_867d63093eff0a0cb527bf13d397d850af3dcae3_slf4j_api_1_7_20_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_google_protobuf_protobuf_java_2_6_1_d9521f2aecb909835746b7a5facf612af5e890e8_protobuf_java_2_6_1_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_google_guava_guava_20_0_89507701249388e1ed5ddcf8c41f4ce1be7831ef_guava_20_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_squareup_okhttp_okhttp_2_7_5_7a15a7db50f86c4b64aa3367424a60e3a325b8f1_okhttp_2_7_5_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_codec_commons_codec_1_10_4b95f4897fa13f2cd904aee711aeafc0c5295cd8_commons_codec_1_10_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_madgag_spongycastle_core_1_54_0_0_de79c5f8c67234f0d0073e00ed1f3bab0e5d1e67_core_1_54_0_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_validator_commons_validator_1_6_e989d1e87cdd60575df0765ed5bac65c905d7908_commons_validator_1_6_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_org_json_json_20170516_949abe1460757b8dc9902c562f83e49675444572_json_20170516_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_lambdaworks_scrypt_1_4_0_906506b74f30c8c20bccd9ed4a11112d8941fe87_scrypt_1_4_0_jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="slf4j-simple-1.7.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="slf4j-api-1.7.20" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="protobuf-java-2.6.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="guava-20.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="okhttp-2.7.5" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-codec-1.10" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="core-1.54.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-validator-1.6" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="json-20170516" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="scrypt-1.4.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="junit-4.12" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_com_squareup_okio_okio_1_6_0_98476622f10715998eacf9240d6b479f12c66143_okio_1_6_0_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_beanutils_commons_beanutils_1_9_2_7a87d845ad3a155297e8f67d9008f4c1e5656b71_commons_beanutils_1_9_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_digester_commons_digester_1_8_1_3dec9b9c7ea9342d4dbe8c38560080d85b44a015_commons_digester_1_8_1_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_logging_commons_logging_1_2_4bfc12adfe4842bf07b657f0369c4cb522955686_commons_logging_1_2_jar" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="_Users_akshaycm__gradle_caches_modules_2_files_2_1_commons_collections_commons_collections_3_2_2_8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5_commons_collections_3_2_2_jar" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="okio-1.6.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-beanutils-1.9.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-digester-1.8.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="commons-collections-3.2.2" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="hamcrest-core-1.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="cryptodezirecashj-core-0.14.3-12.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="airwirej-core-0.14.3-12.1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="furszy-non-blocking-client-0.0.1" level="project" />
   </component>
 </module>

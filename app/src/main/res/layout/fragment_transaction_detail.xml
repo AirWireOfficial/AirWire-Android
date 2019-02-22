@@ -58,7 +58,7 @@
                 android:padding="8dp"
                 android:textIsSelectable="true"
                 android:background="@drawable/transaction_inputs"
-                android:text = "36 CDZC"
+                android:text = "36 WIRE"
                 android:textStyle="bold"
                 android:textColor = "@color/mainText"
                 android:textSize = "18sp" />

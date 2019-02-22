@@ -11,7 +11,7 @@
         <item>Uranus</item>
         <item>Neptun</item>
     </string-array>
-    <string name="app_name">CDZC Geldbörse</string>
+    <string name="app_name">WIRE Geldbörse</string>
     <string name="btn_create_wallet">Geldbörse erstellen</string>
     <string name="btn_restore_wallet">Geldbörse wiederherstellen</string>
     <string name="restore_wallet_message">Wähle eine Sicherheitskopie einer Geldbörse aus einer Datei</string>
@@ -96,7 +96,7 @@
     <string name="currency_message">Wähle die lokale Währung \n deiner Wahl</string>
     <string name="title_fee">Gebühren</string>
     <string name="title_currency">Lokale Währung</string>
-    <string name="title_cryptodezirecash_send">Betrag senden</string>
+    <string name="title_airwire_send">Betrag senden</string>
     <string name="empty_message_address">Du hast bisher keine gespeicherten Adressen.</string>
     <string name="error_message">Es scheint einen Fehler mit\n deiner Transaktion zu geben.</string>
     <string name="settings_change_trusted_node">Wechseln des vertrauenswürdigen Knoten</string>
@@ -110,9 +110,9 @@
     <string name="title_slide1">PIVIX ist Sicherheit</string>
     <string name="desc_slide1">Erste Kryptowährung, die private Schlüssel mit BIP38 ent- bzw. verschlüsselt.</string>
     <string name="title_slide2">60 Sekunden Block-Zeit</string>
-    <string name="desc_slide2">Obwohl CDZC-Transaktionen ohnehin sehr schnell sind, werden sie unter Verwendung von SwiftTX sofort ausgeführt und brauchen KEINE Wartezeit zur Bestätigung. </string>
+    <string name="desc_slide2">Obwohl WIRE-Transaktionen ohnehin sehr schnell sind, werden sie unter Verwendung von SwiftTX sofort ausgeführt und brauchen KEINE Wartezeit zur Bestätigung. </string>
     <string name="title_slide3">Extrem sicher und vertraulich</string>
-    <string name="desc_slide3">CDZC ist außergewöhnlich. Es geht darum, die erste wirklich anonyme Krypto-Währung zu etablieren.</string>
+    <string name="desc_slide3">WIRE ist außergewöhnlich. Es geht darum, die erste wirklich anonyme Krypto-Währung zu etablieren.</string>
     <string name="title_slide4">Verbund vertrauter Knoten</string>
     <string name="desc_slide4">Der Verbund vertrauter Knoten macht Light-PoS-Wallets möglich. Du kannst dich auf diese verlassen oder erstelle deinen eigenen vertrauenswürdigen Knoten!</string>
     <string name="option_add_node">Knoten hinzufügen</string>
@@ -133,7 +133,7 @@
     <string name="restore_dialog_tag">Dialog-Etikett wiederherstellen</string>
     <string name="restore_dialog_error">Fehler-Dialog wiederherstellen</string>
     <string name="settings_support">Support</string>
-    <string name="support_subject">CDZC Geldbörsen Support</string>
+    <string name="support_subject">WIRE Geldbörsen Support</string>
     <string name="tutorial">undefined</string>
     <string name="copy">Kopie</string>
     <string name="share">Teilen</string>

@@ -11,7 +11,7 @@
         <item>Urano</item>
         <item>Netuno</item>
     </string-array>
-    <string name="app_name">Carteira CDZC</string>
+    <string name="app_name">Carteira WIRE</string>
     <string name="btn_create_wallet">Criar Carteira</string>
     <string name="btn_restore_wallet">Recuperar Carteira</string>
     <string name="restore_wallet_message">Selecione uma cópia de segurança da carteira
@@ -104,7 +104,7 @@ Está salva na pasta em
 de sua preferência</string>
     <string name="title_fee">Taxa</string>
     <string name="title_currency">Moeda Local</string>
-    <string name="title_cryptodezirecash_send">Quanti enviada</string>
+    <string name="title_airwire_send">Quanti enviada</string>
     <string name="empty_message_address">Você ainda não possui nenhum endereço salvo.</string>
     <string name="error_message">Parece que há algo errado com a sua transação</string>
     <string name="settings_change_trusted_node">Alterar nó confiável</string>
@@ -116,12 +116,12 @@ de código aberto, descentralizada e de alta privacidade, dirigida por uma comun
     <string name="next">Próximo</string>
     <string name="skip">Pular</string>
     <string name="start">Iniciar</string>
-    <string name="title_slide1">CryptoDezireCash é seguro</string>
+    <string name="title_slide1">AirWire é seguro</string>
     <string name="desc_slide1">Primeira moeda com a encriptação BIP38 e decodificação de chaves privadas</string>
     <string name="title_slide2">60 segundos tempo de bloqueio</string>
-    <string name="desc_slide2">Além de muito rápidas, as trasações CDZC usando SwiftX possuem um tempo de espera de confirmação iguais a ZERO.</string>
+    <string name="desc_slide2">Além de muito rápidas, as trasações WIRE usando SwiftX possuem um tempo de espera de confirmação iguais a ZERO.</string>
     <string name="title_slide3">Extramamente seguro e privado</string>
-    <string name="desc_slide3">CDZC está apontando para o estabelecimento da primeira cripto moeda verdadeiramente anônima.</string>
+    <string name="desc_slide3">WIRE está apontando para o estabelecimento da primeira cripto moeda verdadeiramente anônima.</string>
     <string name="title_slide4">Associação de nós confiáveis</string>
     <string name="desc_slide4">A associação de nós confiáveis tornam possíveis as carteiras PoS, você pode contar com essa associação ou criar seu própio nó confiável!</string>
     <string name="option_add_node">Adicionar nó</string>
@@ -142,7 +142,7 @@ de código aberto, descentralizada e de alta privacidade, dirigida por uma comun
     <string name="restore_dialog_tag">restaurar etiqueta de diálogo</string>
     <string name="restore_dialog_error">restaurar diálogo de erro</string>
     <string name="settings_support">Suporte</string>
-    <string name="support_subject">Suporte da carteira CDZC</string>
+    <string name="support_subject">Suporte da carteira WIRE</string>
     <string name="tutorial">Tutorial</string>
     <string name="copy">Copiar</string>
     <string name="share">Compartilhar</string>

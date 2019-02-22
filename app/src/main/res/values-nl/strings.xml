@@ -11,7 +11,7 @@
         <item>Uranus</item>
         <item>Neptunus</item>
     </string-array>
-    <string name="app_name">CDZC portefeuille</string>
+    <string name="app_name">WIRE portefeuille</string>
     <string name="btn_create_wallet">Creëer Portefeuille</string>
     <string name="btn_restore_wallet">Herstel Portefeuille</string>
     <string name="restore_wallet_message">Selecteer een backup van de portefeuille \n van een opslageenheid</string>
@@ -96,23 +96,23 @@
     <string name="currency_message">Selecteer een lokale munteenheid \n naar jou keuze</string>
     <string name="title_fee">Kost</string>
     <string name="title_currency">Lokale Munteenheid</string>
-    <string name="title_cryptodezirecash_send">Hoeveelheid verzonden</string>
+    <string name="title_airwire_send">Hoeveelheid verzonden</string>
     <string name="empty_message_address">Je hebt nog geen adressen opgeslaan</string>
     <string name="error_message">Er is mogelijk een fout \n met je transactie</string>
     <string name="settings_change_trusted_node">Wijzig trusted node</string>
     <string name="settings_reset_blockchain">Blockchain resetten</string>
     <string name="save">Opslaan</string>
-    <string name="tutorial_message">CDZC, Private, Instant, Verified, Transaction\n is een op privacy-gefocust, gedecentraliseerd, open source cryptovaluta gerund door een wereldwijde gemeenschap die bestaat uit ontwikkelaars, vernieuwers, en technologie enthousiastelingen.</string>
+    <string name="tutorial_message">WIRE, Private, Instant, Verified, Transaction\n is een op privacy-gefocust, gedecentraliseerd, open source cryptovaluta gerund door een wereldwijde gemeenschap die bestaat uit ontwikkelaars, vernieuwers, en technologie enthousiastelingen.</string>
     <!-- Tutorial -->
     <string name="next">Volgende</string>
     <string name="skip">Overslaan</string>
     <string name="start">Beginnen</string>
-    <string name="title_slide1">CryptoDezireCash is veilig</string>
+    <string name="title_slide1">AirWire is veilig</string>
     <string name="desc_slide1">Eerste munt met BIP38 encryptie en decryptie van private keys</string>
     <string name="title_slide2">60 seconden block time</string>
-    <string name="desc_slide2">CryptoDezireCash transacties zijn nu al supersnel door het gebruik van SwiftTX zijn de transacties direct zonder dat er bevestiging nodig is.</string>
+    <string name="desc_slide2">AirWire transacties zijn nu al supersnel door het gebruik van SwiftTX zijn de transacties direct zonder dat er bevestiging nodig is.</string>
     <string name="title_slide3">Enorm veilig en privé</string>
-    <string name="desc_slide3">CDZC richt zich er op om de eerste echte anonieme crypto-currency te zijn.</string>
+    <string name="desc_slide3">WIRE richt zich er op om de eerste echte anonieme crypto-currency te zijn.</string>
     <string name="title_slide4">Trusted nodes federatie</string>
     <string name="desc_slide4">Vertrouwde nodes federatie maakt lichte PoS portemonnees mogelijk, je kunt er op rekenen of een eigen vertrouwde node maken!</string>
     <string name="option_add_node">Node toevoegen</string>
@@ -133,7 +133,7 @@
     <string name="restore_dialog_tag">herstel dialoog tag</string>
     <string name="restore_dialog_error">herstel dialoog error</string>
     <string name="settings_support">Ondersteuning</string>
-    <string name="support_subject">CDZC portefeuille ondersteuning</string>
+    <string name="support_subject">WIRE portefeuille ondersteuning</string>
     <string name="tutorial">Tutorial</string>
     <string name="copy">Kopieer</string>
     <string name="share">Delen</string>

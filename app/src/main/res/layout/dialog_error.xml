@@ -10,7 +10,7 @@
     android:paddingRight="12dp"
     android:paddingTop="20dp"
     android:gravity="center"
-    tools:context="cryptodezirecash.org.cryptodezirecashwallet.ui.base.BaseDrawerActivity">
+    tools:context="airwire.org.airwirewallet.ui.base.BaseDrawerActivity">
 
 
     <ImageView

@@ -1,7 +1,7 @@
-### CryptoDezireCash wallet protocol
+### AirWire wallet protocol
 
 
-CryptoDezireCash server is based on electrum server. Tiene el mismo flujo.
+AirWire server is based on electrum server. Tiene el mismo flujo.
 
 Cada request tiene su propia respuesta del lado del servidor, incluyendo los request de suscripciones.
 

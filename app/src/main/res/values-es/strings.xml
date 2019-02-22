@@ -11,7 +11,7 @@
         <item>Urano</item>
         <item>Neptuno</item>
     </string-array>
-    <string name="app_name">Monedero CDZC</string>
+    <string name="app_name">Monedero WIRE</string>
     <string name="btn_create_wallet">Crear Monedero</string>
     <string name="btn_restore_wallet">Restaurar Monedero</string>
     <string name="restore_wallet_message">Seleccionar una copia de seguridad del monedero \n desde unidad de almacenamiento</string>
@@ -96,7 +96,7 @@
     <string name="currency_message">Seleccione su moneda local</string>
     <string name="title_fee">Comisión</string>
     <string name="title_currency">Divisa Local</string>
-    <string name="title_cryptodezirecash_send">Cantidad enviada</string>
+    <string name="title_airwire_send">Cantidad enviada</string>
     <string name="empty_message_address">Todavía no tiene direcciones guardadas.</string>
     <string name="error_message">Parece que ha habido un error\n con su transacción</string>
     <string name="settings_change_trusted_node">Cambiar nodo de confianza</string>
@@ -107,12 +107,12 @@
     <string name="next">Siguiente</string>
     <string name="skip">Saltar</string>
     <string name="start">Empezar</string>
-    <string name="title_slide1">CryptoDezireCash es seguro</string>
+    <string name="title_slide1">AirWire es seguro</string>
     <string name="desc_slide1">La primera moneda digital con Encriptado y Desencriptado de Llaves Privadas BIP38</string>
     <string name="title_slide2">BLOQUES CADA 60 SEGUNDOS</string>
-    <string name="desc_slide2">De por sí ya muy rápida, pero las transacciones CDZC que usan SwiftX son instantáneas sin tiempo de espera de confirmaciones.</string>
+    <string name="desc_slide2">De por sí ya muy rápida, pero las transacciones WIRE que usan SwiftX son instantáneas sin tiempo de espera de confirmaciones.</string>
     <string name="title_slide3">Dinero digital extremadamente seguro y privado</string>
-    <string name="desc_slide3">CDZC quiere establecerse como la primera moneda digital realmente anónima.</string>
+    <string name="desc_slide3">WIRE quiere establecerse como la primera moneda digital realmente anónima.</string>
     <string name="title_slide4">Federación de nodos de confianza</string>
     <string name="desc_slide4">La federación de nodos de confianza hacen posible los monederos PoS, puedes conectarte a ellos o crear tu propio nodo de confianza!</string>
     <string name="option_add_node">Añadir nodo</string>
@@ -133,7 +133,7 @@
     <string name="restore_dialog_tag">resturante etiqueta del diálogo</string>
     <string name="restore_dialog_error">restaurar diálogo de error</string>
     <string name="settings_support">Soporte</string>
-    <string name="support_subject">Soporte del monedero CDZC</string>
+    <string name="support_subject">Soporte del monedero WIRE</string>
     <string name="tutorial">Tutorial</string>
     <string name="copy">Copiar</string>
     <string name="share">Compartir</string>

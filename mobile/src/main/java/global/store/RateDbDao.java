@@ -1,6 +1,6 @@
 package global.store;
 
-import global.CryptoDezireCashRate;
+import global.AirWireRate;
 
 /**
  * Created by akshaynexus on 3/3/18.
@@ -8,9 +8,9 @@ import global.CryptoDezireCashRate;
 
 public interface RateDbDao<T> extends AbstractDbDao<T>{
 
-    CryptoDezireCashRate getRate(String coin);
+    AirWireRate getRate(String coin);
 
 
-    void insertOrUpdateIfExist(CryptoDezireCashRate cryptodezirecashRate);
+    void insertOrUpdateIfExist(AirWireRate airwireRate);
 
 }

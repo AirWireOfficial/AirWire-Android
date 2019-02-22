@@ -33,11 +33,11 @@
         android:textStyle="bold" />
 
     <TextView
-        android:id="@+id/valueCryptoDezireCash"
+        android:id="@+id/valueAirWire"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="230 CDZC"
+        android:text="230 WIRE"
         android:textSize="16sp"
         />
 
@@ -65,7 +65,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="0.0002 CDZC"
+            android:text="0.0002 WIRE"
             android:textSize="14sp"
             />
 

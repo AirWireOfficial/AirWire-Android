@@ -1,8 +1,8 @@
 package global.wrappers;
 
-import org.cryptodezirecashj.core.Coin;
-import org.cryptodezirecashj.core.Sha256Hash;
-import org.cryptodezirecashj.core.Transaction;
+import org.airwirej.core.Coin;
+import org.airwirej.core.Sha256Hash;
+import org.airwirej.core.Transaction;
 
 import java.io.Serializable;
 import java.util.Map;

@@ -8,16 +8,16 @@
     android:layout_height="fill_parent"
     android:keepScreenOn="true">
 
-    <cryptodezirecash.org.cryptodezirecashwallet.ui.camera.CameraSourcePreview
+    <airwire.org.airwirewallet.ui.camera.CameraSourcePreview
         android:id="@+id/preview"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent">
 
-        <cryptodezirecash.org.cryptodezirecashwallet.ui.camera.GraphicOverlay
+        <airwire.org.airwirewallet.ui.camera.GraphicOverlay
             android:id="@+id/graphicOverlay"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent" />
 
-    </cryptodezirecash.org.cryptodezirecashwallet.ui.camera.CameraSourcePreview>
+    </airwire.org.airwirewallet.ui.camera.CameraSourcePreview>
 
 </LinearLayout>

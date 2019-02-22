@@ -4,27 +4,27 @@ import com.google.common.base.Stopwatch;
 import com.google.common.util.concurrent.ListenableFuture;
 
 import global.utils.Io;
-import org.cryptodezirecashj.core.BlockChain;
-import org.cryptodezirecashj.core.CheckpointManager;
-import org.cryptodezirecashj.core.Peer;
-import org.cryptodezirecashj.core.PeerGroup;
-import org.cryptodezirecashj.core.Sha256Hash;
-import org.cryptodezirecashj.core.StoredBlock;
-import org.cryptodezirecashj.core.Transaction;
-import org.cryptodezirecashj.core.TransactionBroadcast;
-import org.cryptodezirecashj.core.listeners.PeerConnectedEventListener;
-import org.cryptodezirecashj.core.listeners.PeerDataEventListener;
-import org.cryptodezirecashj.core.listeners.PeerDisconnectedEventListener;
-import org.cryptodezirecashj.net.discovery.MultiplexingDiscovery;
-import org.cryptodezirecashj.net.discovery.PeerDiscovery;
-import org.cryptodezirecashj.net.discovery.PeerDiscoveryException;
-import org.cryptodezirecashj.params.MainNetParams;
-import org.cryptodezirecashj.params.RegTestParams;
-import org.cryptodezirecashj.params.TestNet3Params;
-import org.cryptodezirecashj.store.BlockStore;
-import org.cryptodezirecashj.store.BlockStoreException;
-import org.cryptodezirecashj.store.LevelDBBlockStore;
-import org.cryptodezirecashj.store.SPVBlockStore;
+import org.airwirej.core.BlockChain;
+import org.airwirej.core.CheckpointManager;
+import org.airwirej.core.Peer;
+import org.airwirej.core.PeerGroup;
+import org.airwirej.core.Sha256Hash;
+import org.airwirej.core.StoredBlock;
+import org.airwirej.core.Transaction;
+import org.airwirej.core.TransactionBroadcast;
+import org.airwirej.core.listeners.PeerConnectedEventListener;
+import org.airwirej.core.listeners.PeerDataEventListener;
+import org.airwirej.core.listeners.PeerDisconnectedEventListener;
+import org.airwirej.net.discovery.MultiplexingDiscovery;
+import org.airwirej.net.discovery.PeerDiscovery;
+import org.airwirej.net.discovery.PeerDiscoveryException;
+import org.airwirej.params.MainNetParams;
+import org.airwirej.params.RegTestParams;
+import org.airwirej.params.TestNet3Params;
+import org.airwirej.store.BlockStore;
+import org.airwirej.store.BlockStoreException;
+import org.airwirej.store.LevelDBBlockStore;
+import org.airwirej.store.SPVBlockStore;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -277,7 +277,7 @@ public class BlockchainManager {
                     peerGroup.addPeerDiscovery(new PeerDiscovery() {
                         @Override
                         public InetSocketAddress[] getPeers(long services, long timeoutValue, TimeUnit timeUnit) throws PeerDiscoveryException {
-                            // No regtest in cryptodezirecash yet..
+                            // No regtest in airwire yet..
                             return null; //RegtestUtil.getPeersToConnect(conf.getNetworkParams(),conf.getNode());
                         }
 
@@ -302,7 +302,7 @@ public class BlockchainManager {
                                 LOG.info("trusted peer '" + trustedPeerHost + "'" + (connectTrustedPeerOnly ? " only" : ""));
                                 final InetSocketAddress addr;
                                 if (trustedPeerHost.equals(FURSZY_TESTNET_SERVER) && !conf.isTest()){
-                                    addr = new InetSocketAddress(trustedPeerHost, 35601);
+                                    addr = new InetSocketAddress(trustedPeerHost, 6520);
                                 }else {
                                     addr = new InetSocketAddress(trustedPeerHost, conf.getNetworkParams().getPort());
                                 }

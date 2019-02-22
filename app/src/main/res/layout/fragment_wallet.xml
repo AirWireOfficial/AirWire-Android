@@ -7,7 +7,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
     android:background="@color/bgWhite"
-    tools:context="cryptodezirecash.org.cryptodezirecashwallet.ui.base.BaseDrawerActivity">
+    tools:context="airwire.org.airwirewallet.ui.base.BaseDrawerActivity">
 
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -33,7 +33,7 @@
             <fragment
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:name="cryptodezirecash.org.cryptodezirecashwallet.ui.wallet_activity.TransactionsFragmentBase"
+                android:name="airwire.org.airwirewallet.ui.wallet_activity.TransactionsFragmentBase"
                 android:id="@+id/transactions_fragment"
                 android:paddingBottom="66dp"
                 />

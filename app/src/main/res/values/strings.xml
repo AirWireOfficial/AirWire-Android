@@ -22,7 +22,7 @@
     <string name="barcode_success">Barcode read successfully</string>
     <string name="barcode_failure">No barcode captured</string>
     <string name="barcode_error">"Error reading barcode: %1$s"</string>
-    <string name="app_name">CDZC wallet</string>
+    <string name="app_name">WIRE wallet</string>
     <string name="btn_create_wallet">Create Wallet</string>
     <string name="btn_restore_wallet">Restore Wallet</string>
     <string name="restore_wallet_message">Select a backup of the wallet\nfrom a storage unit</string>
@@ -35,7 +35,7 @@
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="set_amount">Write amount to send</string>
-    <string name="set_amount_piv">CDZC</string>
+    <string name="set_amount_piv">WIRE</string>
     <string name="set_amount_usd">Write amount</string>
     <string name="add_all">ADD ALL</string>
     <string name="title_amount">Amount</string>
@@ -113,7 +113,7 @@
     <string name="currency_message">Select your the local currency \n of your choice</string>
     <string name="title_fee">Fee</string>
     <string name="title_currency">Local Currency</string>
-    <string name="title_cryptodezirecash_send">Amount send</string>
+    <string name="title_airwire_send">Amount send</string>
     <string name="empty_message_address">You don\'t have any saved address yet.</string>
     <string name="error_message">There seems to been an error\nwith your transaction</string>
     <string name="settings_change_trusted_node">Change trusted node</string>
@@ -127,12 +127,12 @@
     <string name="back">Back</string>
     <string name="restore">Restore</string>
     <string name="start">Start</string>
-    <string name="title_slide1">CryptoDezireCash is secure</string>
+    <string name="title_slide1">AirWire is secure</string>
     <string name="desc_slide1"> with BIP38 Encryption and Decryption of Private Keys</string>
     <string name="title_slide2">60 SECOND BLOCK TIME</string>
-    <string name="desc_slide2">Already very fast, CDZC transactions using SwiftX are instant with ZERO confirmation wait time required.</string>
+    <string name="desc_slide2">Already very fast, WIRE transactions using SwiftX are instant with ZERO confirmation wait time required.</string>
     <string name="title_slide3">Extremely secure and private</string>
-    <string name="desc_slide3">CDZC is aiming it’s sights on establishing the first truly anonymous crypto-currency.</string>
+    <string name="desc_slide3">WIRE is aiming it’s sights on establishing the first truly anonymous crypto-currency.</string>
     <string name="title_slide4">Trusted nodes federation</string>
     <string name="desc_slide4">Trusted nodes federation make light PoS wallets possible, you can rely on them or create your own trusted node!</string>
     <string name="option_add_node">Add node</string>
@@ -153,7 +153,7 @@
     <string name="restore_dialog_tag">restore dialog tag</string>
     <string name="restore_dialog_error">restore dialog error</string>
     <string name="settings_support">Support</string>
-    <string name="support_subject">CDZC wallet support</string>
+    <string name="support_subject">WIRE wallet support</string>
     <string name="tutorial">Tutorial</string>
     <string name="copy">Copy</string>
     <string name="share">Share</string>
@@ -211,7 +211,7 @@
     <string name="per_kilobyte">Per kilobyte</string>
     <string name="total_at_least">Total at least</string>
     <string name="fee">Fee</string>
-    <string name="minimum_fee">Pay only the minimum fee of 0.00010000 CDZC/kB</string>
+    <string name="minimum_fee">Pay only the minimum fee of 0.00010000 WIRE/kB</string>
     <string name="several_outputs_add_address">ADD ADDRESS</string>
     <string name="address_num">Address %d </string>
     <string name="invalid_last_amount">Invalid last address amount</string>
@@ -236,8 +236,8 @@
     <string name="not_connection">No connection</string>
     <string name="confimations">Confirmations</string>
     <string name="multiple_address_send">Sending to %d addresses</string>
-    <string name="fee_per_kb">%s CDZC/kB</string>
-    <string name="fee_explanation">If the custom fee is lower than the minimum fee (0.0001 CDZC/kB) the cost will be the minimum and not the custom fee selected.\n Fee calculated per kilobyte.</string>
+    <string name="fee_per_kb">%s WIRE/kB</string>
+    <string name="fee_explanation">If the custom fee is lower than the minimum fee (0.0001 WIRE/kB) the cost will be the minimum and not the custom fee selected.\n Fee calculated per kilobyte.</string>
     <string name="invalid_fee_amount">Invalid fee amount</string>
     <string name="load_inputs_fail">Coin control fail</string>
     <string name="title_tx_weight">Weight</string>
@@ -261,7 +261,7 @@
     <string name="validate_multi_send_enabled">Blocked action, multi send enabled</string>
     <string name="detail_no_available_inputs">No available inputs information</string>
     <string name="report_crash_title">Report crash</string>
-    <string name="crash_toast_text">CryptoDezireCash wallet crash</string>
+    <string name="crash_toast_text">AirWire wallet crash</string>
     <string name="backup_fail">Backup fail</string>
     <string name="no_peer_connection">No connection to the node</string>
     <string name="wallet_is_not_sync">Wallet is not sync, to be sure about your real balance please wait until the synchronization finish</string>
@@ -288,7 +288,7 @@
     <!-- Sweep wallet -->
     <!-- Sweep paper wallet means to redeem coins from a code usually printed on a paper -->
     <string name="title_activity_sweep_wallet">Sweep paper wallet</string>
-    <string name="sweep_wallet_info">You are about to transfer coins from a paper wallet to your CDZC wallet.\nAfter the transfer is complete, please avoid reusing the paper wallet for security reasons.\n\nSupported formats: WIF, BIP38, Mini private key.</string>
+    <string name="sweep_wallet_info">You are about to transfer coins from a paper wallet to your WIRE wallet.\nAfter the transfer is complete, please avoid reusing the paper wallet for security reasons.\n\nSupported formats: WIF, BIP38, Mini private key.</string>
     <string name="sweep_wallet_key_title">Private key</string>
     <string name="sweep_wallet_key_password">Private key password</string>
     <string name="sweep_wallet_key_hint">type or scan a private key</string>
@@ -319,9 +319,9 @@
     <string name="terms_of_service" translatable="false">LEGAL DISCLAIMER\n
     \n
     \n
-    1. Risks related to the use of CDZC Wallet\n
+    1. Risks related to the use of WIRE Wallet\n
     \n
-    akshaynexus and/or CDZC will not be responsible for any losses, damages or claims arising from events falling within the scope of the following five categories:\n
+    akshaynexus and/or WIRE will not be responsible for any losses, damages or claims arising from events falling within the scope of the following five categories:\n
     \n
     (1) Mistakes made by the user of any cryptocurrency-related software or service, e.g., forgotten passwords, payments sent to wrong code addresses, and accidental deletion of wallets.\n
     \n

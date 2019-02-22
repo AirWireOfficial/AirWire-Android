@@ -2,7 +2,7 @@ package pivtrum;
 
 import com.google.protobuf.ByteString;
 
-import org.cryptodezirecashj.core.Sha256Hash;
+import org.airwirej.core.Sha256Hash;
 import org.furszy.client.IoManager;
 import org.furszy.client.basic.BaseMsgFuture;
 import org.furszy.client.basic.IoSessionConfImp;

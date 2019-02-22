@@ -1,12 +1,12 @@
 package org.pivtrum.imp;
 
-import org.cryptodezirecashj.core.ECKey;
-import org.cryptodezirecashj.params.TestNet3Params;
+import org.airwirej.core.ECKey;
+import org.airwirej.params.TestNet3Params;
 import org.junit.Test;
 import org.spongycastle.math.ec.ECPoint;
 import org.spongycastle.util.encoders.Hex;
 
-import static org.cryptodezirecashj.core.ECKey.CURVE;
+import static org.airwirej.core.ECKey.CURVE;
 
 /**
  * Created by akshaynexus on 8/13/17.

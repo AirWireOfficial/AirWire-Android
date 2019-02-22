@@ -72,7 +72,7 @@ public enum Method {
 
     /**
      *
-     * Return an ordered list of UTXOs sent to a cryptodezirecash address.
+     * Return an ordered list of UTXOs sent to a airwire address.
      *
      * blockchain.address.listunspent(**address**)
      *
@@ -88,7 +88,7 @@ public enum Method {
      * transaction was confirmed in, *tx_hash* the transaction hash in
      * hexadecimal, *tx_pos* the zero-based index of the output in the
      * transaction's list of outputs, and *value* its integer value in
-     * minimum coin units (satoshis in the case of CryptoDezireCash).
+     * minimum coin units (satoshis in the case of AirWire).
      *
      */
 

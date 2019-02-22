@@ -11,15 +11,15 @@ import pivtrum.PivtrumPeerData;
 
 public class PivtrumGlobalData {
 
-    public static final String FURSZY_TESTNET_SERVER = "seed01.cryptodezirecash.com";
+    public static final String FURSZY_TESTNET_SERVER = "108.61.188.67";
 
-    public static final String[] TRUSTED_NODES = new String[]{"seed01.cryptodezirecash.com","seed02.cryptodezirecash.com","seed03.cryptodezirecash.com"};
+    public static final String[] TRUSTED_NODES = new String[]{"209.250.243.131","209.250.241.176","45.77.239.108"};
 
     public static final List<PivtrumPeerData> listTrustedHosts(){
         List<PivtrumPeerData> list = new ArrayList<>();
-        list.add(new PivtrumPeerData(FURSZY_TESTNET_SERVER,35601,55552));
+        list.add(new PivtrumPeerData(FURSZY_TESTNET_SERVER,6520,55552));
         for (String trustedNode : TRUSTED_NODES) {
-            list.add(new PivtrumPeerData(trustedNode,35601,55552));
+            list.add(new PivtrumPeerData(trustedNode,6520,55552));
         }
         return list;
     }

@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/txt_total_amount"
             android:textColor = "@color/mainText"
-            android:text="3.13 CDZC"/>
+            android:text="3.13 WIRE"/>
     </LinearLayout>
 
 
@@ -57,7 +57,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/multiple_addresses_fragment"
-        android:name="cryptodezirecash.org.cryptodezirecashwallet.ui.transaction_send_activity.custom.outputs.MultipleOutputsFragment"
+        android:name="airwire.org.airwirewallet.ui.transaction_send_activity.custom.outputs.MultipleOutputsFragment"
 
         />
 

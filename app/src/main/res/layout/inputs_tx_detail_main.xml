@@ -6,7 +6,7 @@
     <fragment
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="cryptodezirecash.org.cryptodezirecashwallet.ui.transaction_detail_activity.InputsDetailFragment"
+        android:name="airwire.org.airwirewallet.ui.transaction_detail_activity.InputsDetailFragment"
         android:id="@+id/fragment_inputs_detail"
         />
 

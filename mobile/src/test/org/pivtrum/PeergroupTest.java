@@ -1,9 +1,9 @@
 /*
 package org.pivtrum;
 
-import org.cryptodezirecashj.core.Address;
-import org.cryptodezirecashj.core.Coin;
-import org.cryptodezirecashj.utils.MonetaryFormat;
+import org.airwirej.core.Address;
+import org.airwirej.core.Coin;
+import org.airwirej.utils.MonetaryFormat;
 import org.furszy.client.exceptions.ConnectionFailureException;
 import org.junit.Test;
 import org.pivtrum.imp.AddressStoreImp;

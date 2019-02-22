@@ -4,7 +4,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="cryptodezirecash.org.cryptodezirecashwallet.ui.base.BaseDrawerActivity">
+    tools:context="airwire.org.airwirewallet.ui.base.BaseDrawerActivity">
 
     <FrameLayout android:id="@+id/content"
         android:layout_width="match_parent"

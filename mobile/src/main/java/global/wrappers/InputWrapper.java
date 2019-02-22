@@ -1,8 +1,8 @@
 package global.wrappers;
 
-import org.cryptodezirecashj.core.NetworkParameters;
-import org.cryptodezirecashj.core.Sha256Hash;
-import org.cryptodezirecashj.core.TransactionOutput;
+import org.airwirej.core.NetworkParameters;
+import org.airwirej.core.Sha256Hash;
+import org.airwirej.core.TransactionOutput;
 
 import java.io.Serializable;
 

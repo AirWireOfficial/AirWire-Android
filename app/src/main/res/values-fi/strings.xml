@@ -11,7 +11,7 @@
         <item>Uranus</item>
         <item>Neptunus</item>
     </string-array>
-    <string name="app_name">CDZC lompakko</string>
+    <string name="app_name">WIRE lompakko</string>
     <string name="btn_create_wallet">Luo Lompakko</string>
     <string name="btn_restore_wallet">Palauta Lompakko</string>
     <string name="restore_wallet_message">Valitse varmuuskopio lompakosta \n tallennusvälineeltä</string>
@@ -96,7 +96,7 @@
     <string name="currency_message">Valitse mieleisesi paikallinen valuutta</string>
     <string name="title_fee">Taksa</string>
     <string name="title_currency">Paikallinen Valuutta</string>
-    <string name="title_cryptodezirecash_send">Lähetysmäärä</string>
+    <string name="title_airwire_send">Lähetysmäärä</string>
     <string name="empty_message_address">Sinulla ei ole vielä yhtään tallennettua osoitetta.</string>
     <string name="error_message">Näyttää siltä että rahansiirrossasi on virhe</string>
     <string name="settings_change_trusted_node">Vaihda luotettu solmu</string>
@@ -107,12 +107,12 @@
     <string name="next">Seuraava</string>
     <string name="skip">Ohita</string>
     <string name="start">Aloita</string>
-    <string name="title_slide1">CryptoDezireCash on turvallinen</string>
+    <string name="title_slide1">AirWire on turvallinen</string>
     <string name="desc_slide1">Ensimmäinen kolikko, jossa on BIP38 yksityisavainten salaus/avaus</string>
     <string name="title_slide2">60 SEKUNNIN LOHKO AIKA</string>
-    <string name="desc_slide2">Jo valmiiksi erittäin nopea, CDZC rahansiirrot käyttäen SwiftTX:ää ovat välittömiä, nolla vahvistusta odotusaikaa.</string>
+    <string name="desc_slide2">Jo valmiiksi erittäin nopea, WIRE rahansiirrot käyttäen SwiftTX:ää ovat välittömiä, nolla vahvistusta odotusaikaa.</string>
     <string name="title_slide3">Erittäin turvallinen ja yksityinen</string>
-    <string name="desc_slide3">CDZC:in tavoitteena on perustaa ensimmäinen aidosti anonyymi kryptovaluutta.</string>
+    <string name="desc_slide3">WIRE:in tavoitteena on perustaa ensimmäinen aidosti anonyymi kryptovaluutta.</string>
     <string name="title_slide4">Luotettujen solmujen liitto</string>
     <string name="desc_slide4">Luotettujen solmujen liitto tekevät kevyistä PoS-lompakoista mahdollisia, voit luottaa niihin tai luoda oman luotettavan solmun!</string>
     <string name="option_add_node">Lisää solmu</string>
@@ -133,7 +133,7 @@
     <string name="restore_dialog_tag">palauta dialogitunniste</string>
     <string name="restore_dialog_error">palauta dialogin virhe</string>
     <string name="settings_support">Tuki</string>
-    <string name="support_subject">CDZC lompakon tuki</string>
+    <string name="support_subject">WIRE lompakon tuki</string>
     <string name="tutorial">Kurssi</string>
     <string name="copy">Kopioi</string>
     <string name="share">Jaa</string>

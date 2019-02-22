@@ -11,7 +11,7 @@
         <item>Uranus</item>
         <item>Neptune</item>
     </string-array>
-    <string name="app_name">portefeuille CDZC</string>
+    <string name="app_name">portefeuille WIRE</string>
     <string name="btn_create_wallet">Créer un portefeuille</string>
     <string name="btn_restore_wallet">Récupérer un portefeuille </string>
     <string name="restore_wallet_message">Sélectionner une sauvegarde de portefeuille /n depuis un périphérique de sockage</string>
@@ -87,7 +87,7 @@
     <string name="unavailable">Solde non dépensable:</string>
     <string name="sending_tx">Envoi de la transaction..</string>
     <string name="title_fee">Frais</string>
-    <string name="title_cryptodezirecash_send">Montant envoyé</string>
+    <string name="title_airwire_send">Montant envoyé</string>
     <string name="empty_message_address">Vous n\'avez aucune adresse sauvegardé pour l\'instant.</string>
     <string name="error_message">On dirait qu\'il y a une erreur\n avec votre transaction</string>
     <string name="settings_reset_blockchain">Réinitialiser la blockchain</string>
@@ -97,12 +97,12 @@
     <string name="next">Suivant</string>
     <string name="skip">Passer</string>
     <string name="start">Commencer</string>
-    <string name="title_slide1">CryptoDezireCash est sécurisé</string>
+    <string name="title_slide1">AirWire est sécurisé</string>
     <string name="desc_slide1">Première cryptomonnaie qui utilise le chiffrement BIP38 pour les clés privées.</string>
     <string name="title_slide2">Temps de bloc de 60 secondes</string>
-    <string name="desc_slide2">Déjà très rapide, les transactions CDZC utilisant SwiftX sont instantanée avec ZERO temps de confirmation requis.</string>
+    <string name="desc_slide2">Déjà très rapide, les transactions WIRE utilisant SwiftX sont instantanée avec ZERO temps de confirmation requis.</string>
     <string name="title_slide3">Extrêmement sécurisé et privé</string>
-    <string name="desc_slide3">CDZC vise à établir la première cryptomonnaie vraiment anonyme.</string>
+    <string name="desc_slide3">WIRE vise à établir la première cryptomonnaie vraiment anonyme.</string>
     <string name="option_add_node">Ajouter un nœud </string>
     <string name="report_issue_dialog_description">Description du problème</string>
     <string name="report_issue_dialog_report">Rapport</string>
