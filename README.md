@@ -1,6 +1,6 @@
 # WIRE-Wallet
 
-![alt text](https://cdn.discordapp.com/attachments/497476919475044361/544271546697515009/Logo_with_tex_1t.png)
+![alt text](https://cdn.discordapp.com/attachments/543445006963441665/548161517347012608/AirWire_Logo_grey_orange_cmyk_061518-01_3.png)
 
 Welcome to the WIRE mobile wallet for android!
 
@@ -20,11 +20,11 @@ gradle clean build
 
 ### Cloning repository.
 
-Use git clone --recurse-submodules https://github.com/akshaynexus/WIRE-Android.git
+Use git clone --recurse-submodules https://github.com/akshaynexus/AirWire-Android.git
   
 #### or
 
-Use git clone https://github.com/akshaynexus/WIRE-Android.git
+Use git clone https://github.com/akshaynexus/AirWire-Android.git
   
 git submodule init
 
