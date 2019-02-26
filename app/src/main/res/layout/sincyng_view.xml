@@ -17,7 +17,7 @@
         android:layout_gravity="center"
         android:src="@drawable/ic_warning_sync"
         android:paddingRight="12dp"
-        android:tint="#6D1112"
+        android:tint="#FF4713"
         />
 
 
@@ -42,7 +42,7 @@
         android:id="@+id/pBar"
         style="?android:attr/progressBarStyleHorizontal"
         android:progress="60"
-        android:progressTint="#a71c20"
+        android:progressTint="#FF4713"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
     </ProgressBar>
