@@ -45,10 +45,19 @@ public class SplashActivity extends AppCompatActivity {
             videoView.setZOrderOnTop(true);
             videoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
                 public void onCompletion(MediaPlayer mp) {
-                    jump();
+
                 }
             });
-
+            new java.util.Timer().schedule(
+                    new java.util.TimerTask() {
+                        @Override
+                        public void run() {
+                            // your code here
+                            jump();
+                        }
+                    },
+                    5500
+            );
             videoView.setOnErrorListener(new MediaPlayer.OnErrorListener() {
                 @Override
                 public boolean onError(MediaPlayer mediaPlayer, int i, int i1) {
